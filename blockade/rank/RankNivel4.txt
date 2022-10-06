@@ -1,0 +1,6 @@
+Ranking
+  Nome-Frutas-Tempo
+1 - asd - 4 - 32
+2 - pow - 8 - 9
+3 - ppp - 9 - 3
+4 - art - 10 - 1

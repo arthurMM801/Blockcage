@@ -1,0 +1,12 @@
+Ranking
+  Nome-Frutas-Tempo
+1 - liv - 0 - 40
+2 - liv - 0 - 44
+3 - ped - 0 - 61
+4 - asd - 4 - 32
+5 - luc - 7 - 11
+6 - Teo - 7 - 14
+7 - lii - 7 - 18
+8 - mar - 8 - 4
+9 - pow - 8 - 9
+10 - art - 8 - 10

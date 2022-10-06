@@ -1,0 +1,9 @@
+Ranking
+  Nome-Frutas-Tempo
+1 - liv - 0 - 44
+2 - nas - 3 - 35
+3 - asd - 4 - 32
+4 - luc - 7 - 11
+5 - mar - 8 - 4
+6 - art - 8 - 9
+7 - art - 8 - 10
