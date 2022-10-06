@@ -12,7 +12,7 @@ public class rank{
     private ArrayList<player> rank;
 
     public rank(int nivel) throws Exception{
-        arq = new FileInputStream("C:\\Users\\USUARIO\\Documents\\BACKUP\\Desktop\\arthur\\fontes-master\\fontes-master\\Cap04\\src\\br\\com\\mvbos\\lgj\\rank\\RankNivel"+nivel+".txt");
+        arq = new FileInputStream("rank/RankNivel"+nivel+".txt");
     }
 
     public rank(FileInputStream arq) throws Exception{
@@ -91,7 +91,7 @@ public class rank{
 
     public void writeRank(int nivel){
         try {
-            FileOutputStream saida = new FileOutputStream("C:\\Users\\USUARIO\\Documents\\BACKUP\\Desktop\\arthur\\fontes-master\\fontes-master\\Cap04\\src\\br\\com\\mvbos\\lgj\\rank\\RankNivel"+nivel+".txt");
+            FileOutputStream saida = new FileOutputStream("rank/RankNivel"+nivel+".txt");
             PrintStream ps = new PrintStream(saida);
 
             ps.println("Ranking");
